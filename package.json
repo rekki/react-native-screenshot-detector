@@ -2,8 +2,12 @@
 {
   "name": "react-native-screenshot-detector",
   "version": "1.0.0",
-  "description": "",
+  "description": "screenshot detector for react native",
   "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/rekki/react-native-screenshot-detector.git"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -11,9 +15,6 @@
     "react-native"
   ],
   "author": "gcarling",
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/blendlabs/react-native-screenshot-detector"
-  },
-  "license": "MIT"
+  "license": "MIT",
+  "homepage": "https://github.com/rekki/react-native-screenshot-detector"
 }
